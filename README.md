@@ -1,5 +1,16 @@
 # AI voice capability-based news app
 
+## Introduction: ℹ️
+
+This is a conversational, voice controlled, React News Application using Alan Al.
+Alan Al is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. 
+It allows you to control absolutely everything in the app using your voice.
+
+## Setup: ⚙️
+
+run npm i && npm start to start
+development server
+
 ## For Live Project 📦
 
 Deployed URL : https://react-news-app-using-alan-ai-by-anirban.netlify.app/
