@@ -95,6 +95,7 @@ let alanBtnInstance = alanBtn({ //calling alanBtn as a fun.
 
       <NewsCards articles={newsArticles} activeArticle={activeArticle}/> {/*passing newsArticles & activeArticle as an props so that we can access it NewesCards.js */}
       <Footer />
+        
 
     </div>
   );
